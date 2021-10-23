@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header h1{
+    font-size: 50px;
+    max-width: 600px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.main{
+    margin: 20px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
