@@ -23,3 +23,7 @@ maBlockchain.showChain();
 
 //ry tanindrazanay malala oh ry madagasikara soa 
 console.log('tapitra');
+
+//ry madagasikara soa
+// lorem lava beflksdhfisuhydfvusdhofusoef
+console.log("fanidroany");
