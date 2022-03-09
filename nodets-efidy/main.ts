@@ -20,3 +20,6 @@ console.log('   ');
 
 maBlockchain.addNewBlock();
 maBlockchain.showChain();
+
+//ry tanindrazanay malala oh ry madagasikara soa 
+console.log('tapitra');
