@@ -21,5 +21,4 @@ console.log('   ');
 maBlockchain.addNewBlock();
 maBlockchain.showChain();
 
-//ry tanindrazanay malala oh ry madagasikara soa 
-console.log('tapitra');
+//aG test ity tompoko nisy zavatra novaina 
